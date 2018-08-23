@@ -20,7 +20,7 @@
     <agentPort>8079</agentPort>
     <truststorePassword></truststorePassword>
     <agentAuth></agentAuth>
-    <agentHost>localhost</agentHost>
+    <agentHost>cvathark-t470.apac.tibco.com</agentHost>
     <httpPort>8222</httpPort>
     <appNode>HelloWorldBW6.module-AppNode</appNode>
     <osgiPort>8223</osgiPort>
